@@ -1,0 +1,22 @@
+# Maven
+target/
+
+# Test Reports
+Reports/
+Screenshots/
+test-output/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# API Keys
+src/main/resources/config.properties
